@@ -28,10 +28,12 @@ The redesigned system will focus on the following:
 **Project Managers**  
 Lia Du  
 Mandy Chen  
+  
 **Data Science Analysts**  
 Cal Walrath  
 Aadi Ghai  
 Wendy Du  
+  
 **Website Developer**  
 Anushka Acharya  
 Andrew Hou  
