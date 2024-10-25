@@ -22,3 +22,19 @@ The redesigned system will focus on the following:
 - Compatibility with mobile devices for easy access.
 - Dedicated sections for each of DP’s eight community partners, showcasing their missions, events, and volunteer opportunities.
 - Sustainability-focused design to keep ongoing maintenance costs low and ensure a long-term impact.
+
+## Team
+
+**Project Managers**
+Lia Du
+Mandy Chen
+
+**Data Science Analysts**
+Cal Walrath
+Aadi Ghai
+Wendy Du
+
+**Website Developer**
+Anushka Acharya
+Andrew Hou
+Dhara Patel
