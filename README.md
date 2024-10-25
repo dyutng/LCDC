@@ -26,15 +26,15 @@ The redesigned system will focus on the following:
 ## Team
 
 **Project Managers**  
-Lia Du  
-Mandy Chen  
+- Lia Du  
+- Mandy Chen  
   
 **Data Science Analysts**  
-Cal Walrath  
-Aadi Ghai  
-Wendy Du  
+- Cal Walrath  
+- Aadi Ghai  
+- Wendy Du  
   
 **Website Developer**  
-Anushka Acharya  
-Andrew Hou  
-Dhara Patel  
+- Anushka Acharya  
+- Andrew Hou  
+- Dhara Patel  
